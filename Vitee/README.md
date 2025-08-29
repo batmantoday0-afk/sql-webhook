@@ -32,8 +32,8 @@ java -jar release/app.jar
 
 ## GitHub & JAR Download
 
-- [GitHub Repository](https://github.com/your-username/your-repo) <!-- Replace with your actual repo URL -->
-- [Download Raw JAR](https://github.com/your-username/your-repo/releases/latest/download/app.jar) <!-- Replace with actual JAR link -->
+- [GitHub Repository](https://github.com/batmantoday0-afk/sql-webhook/tree/main/Vitee)
+- [Download Raw JAR](https://github.com/batmantoday0-afk/sql-webhook/blob/076e5c8d90f7d6c17ee731844a68d3c1fe629fea/Vitee/release/app.jar)
 
 ## Git Commands
 
